@@ -35,10 +35,10 @@ I'm a passionate web developer and designer with a keen eye for creating visuall
    [Personal ID](mailto:nikheljha360@gmail.com)
 
 2. *LinkedIn:*
-   [Your LinkedIn Profile](https://www.linkedin.com/in/debapriya-jha-9a13ab222/)
+   [LinkedIn Profile](https://www.linkedin.com/in/debapriya-jha-9a13ab222/)
 
 3. *GitHub:*
-   [Your GitHub Profile](https://github.com/DebapriyaJha)
+   [GitHub Profile](https://github.com/DebapriyaJha)
 
 
 <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><b>Let's Collaborate!</b></p>
