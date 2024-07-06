@@ -17,31 +17,29 @@ I'm a passionate web developer and designer with a keen eye for creating visuall
 
 ## <p style="font-size:3rem;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />Featured Projects</p>
 
-1. **E-commerce Platform:**
-   A fully responsive online store with user authentication, product catalog, and secure payment integration.
+1. **TinDog:**
+   TinDog is a unique platform designed to help dog owners find the perfect playmates for their furry friends.
 
-2. **Blog CMS:**
-   A content management system for bloggers, featuring a rich text editor and category management.
+2. **Magma:**
+   Magma is a revolutionary platform designed to transform the real estate industry..
 
-3. **Task Management App:**
-   A React-based application for organizing tasks, with drag-and-drop functionality and data persistence.
+3. **Quiz App:**
+   The Quiz App is an interactive web application designed to test your knowledge on various topics..
 
-4. **Portfolio Website:**
-   A showcase of my work, including an about me section, project gallery, and contact form.
+4. **Tune:**
+   Tune is a meticulously designed web interface aimed at providing an immersive online shopping experience for headphone enthusiasts.
 
 <h1 align="center"><b>Get in Touch<b></h1>
 
 1. *Email:*
-   [your.email@example.com](mailto:your.email@example.com)
+   [Personal ID](mailto:nikheljha360@gmail.com)
 
 2. *LinkedIn:*
-   [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+   [Your LinkedIn Profile](https://www.linkedin.com/in/debapriya-jha-9a13ab222/)
 
 3. *GitHub:*
-   [Your GitHub Profile](https://github.com/yourusername)
+   [Your GitHub Profile](https://github.com/DebapriyaJha)
 
-4. *Twitter:*
-   [@YourTwitterHandle](https://twitter.com/yourusername)
 
 <p style="font-family:var(--ff-philosopher);font-size:3rem;text-align:center;"><b>Let's Collaborate!</b></p>
 
@@ -54,7 +52,7 @@ I'm a passionate web developer and designer with a keen eye for creating visuall
 Don't forget to check out my projects and connect with me on social media! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Star.png" width="30" height="30"></h3>
 </center>
 
-## How to View the Website
+## How to View the Website Locally
 
 To view the website, follow these steps:
 
